@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/4433cd06d1b98cd4395e0c8cd4ac2be6/s/master "wercker status")](https://app.wercker.com/project/bykey/4433cd06d1b98cd4395e0c8cd4ac2be6)
+
 # hatenablog2hugo
 
 Translating to hugo format from exported text file by Hatena Blog.
